@@ -35,6 +35,3 @@ This repository is intended for:
 Zakia Mahfuza Proma
 
 
-
-## License
-This project is for demonstration purposes only. Please contact the author for reuse or distribution.
